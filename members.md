@@ -3,7 +3,7 @@ layout: "page"
 title: Members 🎰
 ---
 <image src="./pics/WhatsApp Image 2020-04-24 at 8.34.44 PM.jpeg"></image>
-<image src=".\pics\WhatsApp Image 2020-04-24 at 8.34.43 PM.jpeg"></image>
+<image src="./pics/WhatsApp Image 2020-04-24 at 8.34.43 PM.jpeg"></image>
 Ayushi
 <br>
 Aditya
