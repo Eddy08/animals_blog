@@ -14,7 +14,7 @@ Abhishek
 Abhijna
 <br>
 Harsh
-<image src=".\pics\editedHarsh.jpg"></image>
+<image src=".\pics\editedHarsh.jpg" alt="Harsh" border-radius="100%"></image>
 <br>
 Harshitha
 <br>
